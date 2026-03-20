@@ -1,0 +1,5 @@
+{
+  "name": "Professor Uebert - Gerador de Questões",
+  "description": "Uma ferramenta para professores de matemática gerarem questões de múltipla escolha alinhadas à BNCC usando IA.",
+  "requestFramePermissions": []
+}
